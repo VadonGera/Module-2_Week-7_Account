@@ -1,0 +1,7 @@
+# TODO: Библиотеки проекта
+TinyDB
+bcrypt
+requests
+dateparser
+datetime
+pytest
