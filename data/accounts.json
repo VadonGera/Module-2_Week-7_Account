@@ -1,0 +1,16 @@
+{
+  "6e1721ec-5ee6-4e41-9995-721bda544026" : {
+    "1" : {
+      "balance" : 5566.0 ,
+      "currency" : "USD" ,
+      "name" : "Cash" ,
+      "uuid" : "8d073409-ade7-4e32-a571-e248bac46a7f"
+    } ,
+    "2" : {
+      "balance" : 21573.364485981307 ,
+      "currency" : "RUB" ,
+      "name" : "Alfa" ,
+      "uuid" : "4677f1ad-58c8-47f6-94e8-8c55b2081815"
+    }
+  }
+}
