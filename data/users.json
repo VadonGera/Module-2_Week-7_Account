@@ -1,0 +1,58 @@
+{
+  "users" : {
+    "1" : {
+      "username" : "qwe" ,
+      "fullname" : "\u0412\u0430\u0434\u0438\u043c" ,
+      "password" : "d192f22caeb8fe6d86f8a05e9414784dc5b709ea1c6c182c4701b481b1cc43c4,NXjWi" ,
+      "uuid" : "0f0ead19-9a6d-4e7a-952d-2f8b7b13ce0c"
+    } ,
+    "2" : {
+      "username" : "poi" ,
+      "fullname" : "Points" ,
+      "password" : "a8378727e206cda4c38c64adb676b464aa582af4d4e5e3dd1e0474678cd4eaf2,IdTGQ" ,
+      "uuid" : "6e1721ec-5ee6-4e41-9995-721bda544026"
+    } ,
+    "3" : {
+      "username" : "zxc" ,
+      "fullname" : "zxc" ,
+      "email" : "zxc@zxc.com" ,
+      "password" : "f5768bec22349182c5eb790975b6fd1bfc439e498f4942c2502bf9dcba31a5e7,fkkRa" ,
+      "uuid" : "32e14d79-9226-4865-a173-17552b69f8b5"
+    } ,
+    "4" : {
+      "username" : "ert" ,
+      "fullname" : "ert" ,
+      "email" : "ert@ert.ru" ,
+      "password" : "fd2b2428c88337ff6e5bea4b80e5532d5d1121e7c394517a47b58e76de96831c,RiHRr" ,
+      "uuid" : "ba758729-bf37-4e08-891e-954889e35ea5"
+    } ,
+    "5" : {
+      "username" : "asd" ,
+      "fullname" : "asd" ,
+      "email" : "asd@asd.ru" ,
+      "password" : "a790e68cc72c5f979d4f9d06d515232b8fc6a28f6dba6bb91b5ec15d8fcf50b5,ekMnd" ,
+      "uuid" : "b1babe25-c217-454d-927f-513cae5d9d37"
+    } ,
+    "6" : {
+      "username" : "xcv" ,
+      "fullname" : "Bob Tornton" ,
+      "email" : "tor@mail.com" ,
+      "password" : "191bb3319d00a92dd448d676cfe5f5468693620b3a1bc58c4d1437317373262b,RyqMC" ,
+      "uuid" : "12bc8659-7bc1-4e75-b765-13a13c9c42d7"
+    } ,
+    "7" : {
+      "username" : "tyu" ,
+      "fullname" : "tyu" ,
+      "email" : "tyu@tyu.ru" ,
+      "password" : "f3c14b2f8073d6ac7e1a8b8d66231be4130e6dd6de7f22dba2c6c4368197c38c,lHWYV" ,
+      "uuid" : "c9421557-7c4a-468d-8829-c20576866629"
+    } ,
+    "8" : {
+      "username" : "\u0412\u0430\u0434\u0438\u043c" ,
+      "fullname" : "\u0413\u0435\u0440\u0430" ,
+      "email" : "dfgdf@sdfsd.ru" ,
+      "password" : "ef594fe84367a0eba0fd650d48a0a3b6e7b9854e08832f509dc1c50b70d2569d,PvxDN" ,
+      "uuid" : "06c2905b-bbb4-4b67-83b3-aa19c4d3811c"
+    }
+  }
+}
